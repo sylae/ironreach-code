@@ -25,7 +25,7 @@ b) The former CR in an election immediately following a recall vote
 
 ¶3. **CR Veto**. The Community Representative may at their discretion motion to veto the appointment of a proposed Moderator. In such cases, a vote will be held within two (2) weeks of the proposed veto, with a voting time lasting no less than two (2) days. Should a motion to veto pass (by a >50% majority of votes cast), then the proposed appointee will be blocked from joining the Staff.
 
-¶4. **Vote of No Confidence**. The Community Representative may, in cases of gross negligence or abuse of privileges or extended absence, initiate a No Confidence vote for a current Moderator. In such cases, a vote will be held within two (2) weeks of the call of No Confidence, with a voting time lasting no less than two (2) days. Should a No Confidence vote pass (by a >50% majority of votes cast), then the sitting moderator will be removed from their position.
+¶4. **Vote of No Confidence**. The Community Representative may, in cases of gross negligence or abuse of privileges or extended absence, initiate a No Confidence vote for a current Moderator. In such cases, a public vote will be held within two (2) weeks of the call of No Confidence, with a voting time lasting no less than two (2) days. Should a No Confidence vote pass (by a >50% majority of votes cast), then the sitting moderator will be removed from their position.
 
 ¶5. **Normal Removal**. A moderator may also be removed via Staff motion in the normal procedure.
 
