@@ -23,11 +23,13 @@ b) The former CR in an election immediately following a recall vote
 
 ¶2. **Procedure of Appointment**. Moderators are appointed via Staff motion in the normal procedure. The appointee may decline this offer.
 
-¶3. **CR Veto**. In cases of gross negligence or extended absence, a removal vote may be held, to be initiated by the Community Rep. This vote will be held in a similar fashion as a CR recall election (Section 1.1.1. ¶4).
+¶3. **CR Veto**. The Community Representative may at their discretion motion to veto the appointment of a proposed Moderator. In such cases, a vote will be held within two (2) weeks of the proposed veto, with a voting time lasting no less than two (2) days. Should a motion to veto pass (by a >50% majority of votes cast), then the proposed appointee will be blocked from joining the Staff.
 
-¶4. **Normal Removal**. A moderator may also be removed via Staff motion in the normal procedure.
+¶4. **Vote of No Confidence**. The Community Representative may, in cases of gross negligence or abuse of privileges or extended absence, initiate a No Confidence vote for a current Moderator. In such cases, a vote will be held within two (2) weeks of the call of No Confidence, with a voting time lasting no less than two (2) days. Should a No Confidence vote pass (by a >50% majority of votes cast), then the sitting moderator will be removed from their position.
 
-¶5. **Candidate Eligibility**. Community Representatives may not also be Moderators. A CR must resign their CR position before accepting an appoint to be a Moderator.
+¶5. **Normal Removal**. A moderator may also be removed via Staff motion in the normal procedure.
+
+¶6. **Candidate Eligibility**. Community Representatives may not also be Moderators. A CR must resign their CR position before accepting an appoint to be a Moderator.
 
 ## Chapter 1.2. Moderator Code of Conduct
 
