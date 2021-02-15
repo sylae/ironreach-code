@@ -6,11 +6,11 @@
 
 ¶1. **Term**. The Community Representative is to be elected by community vote for terms no longer than one (1) year. Should a CR resign their post, an election will be held early to replace their position, with the new Rep having their own one-year term. There are no term limits for the CR.
 
-¶2. **Electorate**. All community members present at the announcement of nominations will be eligible to vote. Votes cast by members who joined after this time will be accepted on a provisional basis unless rejected by Staff motion.
+¶2. **Electorate**. All community members (non-bot users) present at the announcement of nominations will be eligible to vote. Votes cast by members who joined after this time will be accepted on a provisional basis unless rejected by Staff motion.
 
 ¶3. **Procedure of Election**. A nomination period will be held for no less than five (5) days, during which time nominations will be solicited from the electorate. Nominees will be asked if they accept their nomination. A campaign period may be held, the length of which shall not exceed two (2) weeks. After this time, a vote will be held using a sufficiently secure system over a period no less than two (2) days. Should no candidate obtain a majority (>50%) of the votes, those candidates with less than their share of votes (ie in a 4-person race, less than 25%) will be eliminated, and a runoff will be immediately held, lasting no less than two (2) days. This will repeat until a majority of votes go to a single candidate.
 
-¶4. **Recalls**. In cases of gross negligence or extended absence, a recall election may be held. This may be initiated by Staff motion or by a petition from at least ten percent of the community membership. A recall vote will be held within two (2) weeks of this initiation, with a voting time lasting no less than two (2) days. Should a majority (>50%) vote to recall, the CR will be immediately removed from their position and an election will commence.
+¶4. **Recalls**. In cases of gross negligence or extended absence, a recall election may be held. This may be initiated by Staff motion or by a petition from at least ten percent of the community membership (non-bot users). A recall vote will be held within two (2) weeks of this initiation, with a voting time lasting no less than two (2) days. Should a majority (>50%) vote to recall, the CR will be immediately removed from their position and an election will commence.
 
 ¶5. **Candidate Eligibility**. All community members are eligible to run for CR, with the following exceptions:
 
